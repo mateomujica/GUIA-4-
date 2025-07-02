@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj": {}
+    "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj": {
+    "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj",
+        "projectUniqueName": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj",
         "projectName": "Reales,500.000",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\obj\\",
+        "projectPath": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Reales,500.000.csproj",
+        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

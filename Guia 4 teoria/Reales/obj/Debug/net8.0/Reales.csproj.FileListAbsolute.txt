@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\bin\Debug\net8.0\Reales.exe
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\bin\Debug\net8.0\Reales.deps.json
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\bin\Debug\net8.0\Reales.runtimeconfig.json
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\bin\Debug\net8.0\Reales.dll
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\bin\Debug\net8.0\Reales.pdb
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.sourcelink.json
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.dll
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\refint\Reales.dll
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.pdb
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\Reales.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Escritorio\GUIA 4 PRACTICA\GUIA-4-\GUIA-4-\Guia 4 teoria\Reales\obj\Debug\net8.0\ref\Reales.dll

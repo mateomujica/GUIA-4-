@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\",
+  "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E385CB4-1046-4161-9B70-CC47270853C2}|Enteros,500.000\\Enteros,500.000.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\ejercicios-practica-programacion-\\guia-4-\\guia 4 teoria\\enteros,500.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E385CB4-1046-4161-9B70-CC47270853C2}|Enteros,500.000\\Enteros,500.000.csproj|solutionrelative:enteros,500.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C35F6BF-CD9D-41E9-9AD4-52699B754C08}|Reales,500.000\\Reales,500.000.csproj|c:\\users\\mateo\\onedrive\\escritorio\\guia 4 practica\\guia-4-\\guia-4-\\guia 4 teoria\\reales,500.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C35F6BF-CD9D-41E9-9AD4-52699B754C08}|Reales,500.000\\Reales,500.000.csproj|solutionrelative:reales,500.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C23A4E0-D96B-4E52-8631-5C2AE18C7095}|Enteros,1.000.000\\Enteros,1.000.000.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\ejercicios-practica-programacion-\\guia-4-\\guia 4 teoria\\enteros,1.000.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C23A4E0-D96B-4E52-8631-5C2AE18C7095}|Enteros,1.000.000\\Enteros,1.000.000.csproj|solutionrelative:enteros,1.000.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F097C90-5395-48B5-920B-774B26346BF3}|Reales,5.000.000\\Reales,5.000.000.csproj|c:\\users\\mateo\\onedrive\\escritorio\\guia 4 practica\\guia-4-\\guia-4-\\guia 4 teoria\\reales,5.000.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F097C90-5395-48B5-920B-774B26346BF3}|Reales,5.000.000\\Reales,5.000.000.csproj|solutionrelative:reales,5.000.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FE5B7D-941A-4B5C-A816-947C566955C8}|Enteros,500\\Enteros,500.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\ejercicios-practica-programacion-\\guia-4-\\guia 4 teoria\\enteros,500\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FE5B7D-941A-4B5C-A816-947C566955C8}|Enteros,500\\Enteros,500.csproj|solutionrelative:enteros,500\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F097C90-5395-48B5-920B-774B26346BF3}|Reales,5.000.000\\Reales,5.000.000.csproj|c:\\users\\mateo\\onedrive\\escritorio\\guia 4 practica\\guia-4-\\guia-4-\\guia 4 teoria\\reales,5.000.000\\reales,5.000.000.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F097C90-5395-48B5-920B-774B26346BF3}|Reales,5.000.000\\Reales,5.000.000.csproj|solutionrelative:reales,5.000.000\\reales,5.000.000.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2818FBC2-2B75-4721-91DA-0EEA16079BF8}|Enteros\\Enteros.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\ejercicios-practica-programacion-\\guia-4-\\guia 4 teoria\\enteros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2818FBC2-2B75-4721-91DA-0EEA16079BF8}|Enteros\\Enteros.csproj|solutionrelative:enteros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36FD1030-FEEC-419E-B935-F748F678D059}|Reales,1.000.000\\Reales,1.000.000.csproj|c:\\users\\mateo\\onedrive\\escritorio\\guia 4 practica\\guia-4-\\guia-4-\\guia 4 teoria\\reales,1.000.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FD1030-FEEC-419E-B935-F748F678D059}|Reales,1.000.000\\Reales,1.000.000.csproj|solutionrelative:reales,1.000.000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8200A139-B58B-407D-8E3C-0A8FB7CFD4BE}|Reales\\Reales.csproj|c:\\users\\mateo\\onedrive\\escritorio\\guia 4 practica\\guia-4-\\guia-4-\\guia 4 teoria\\reales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8200A139-B58B-407D-8E3C-0A8FB7CFD4BE}|Reales\\Reales.csproj|solutionrelative:reales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,69 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 52,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros,500\\Program.cs",
-              "RelativeDocumentMoniker": "Enteros,500\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros,500\\Program.cs",
-              "RelativeToolTip": "Enteros,500\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T22:23:10.408Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros,1.000.000\\Program.cs",
-              "RelativeDocumentMoniker": "Enteros,1.000.000\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros,1.000.000\\Program.cs",
-              "RelativeToolTip": "Enteros,1.000.000\\Program.cs",
-              "ViewState": "AgIAAPIAAAAAAAAAAADwv94BAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,5.000.000\\Program.cs",
+              "RelativeDocumentMoniker": "Reales,5.000.000\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,5.000.000\\Program.cs",
+              "RelativeToolTip": "Reales,5.000.000\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T22:22:08.217Z",
+              "WhenOpened": "2025-07-02T23:22:47.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros,500.000\\Program.cs",
-              "RelativeDocumentMoniker": "Enteros,500.000\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros,500.000\\Program.cs",
-              "RelativeToolTip": "Enteros,500.000\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T22:19:47.901Z",
+              "DocumentIndex": 2,
+              "Title": "Reales,5.000.000",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,5.000.000\\Reales,5.000.000.csproj",
+              "RelativeDocumentMoniker": "Reales,5.000.000\\Reales,5.000.000.csproj",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,5.000.000\\Reales,5.000.000.csproj",
+              "RelativeToolTip": "Reales,5.000.000\\Reales,5.000.000.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T23:22:45.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\Program.cs",
-              "RelativeDocumentMoniker": "Enteros\\Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\facu\\ejercicios-practica-programacion-\\GUIA-4-\\Guia 4 teoria\\Enteros\\Program.cs",
-              "RelativeToolTip": "Enteros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,1.000.000\\Program.cs",
+              "RelativeDocumentMoniker": "Reales,1.000.000\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,1.000.000\\Program.cs",
+              "RelativeToolTip": "Reales,1.000.000\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T21:44:39.803Z",
+              "WhenOpened": "2025-07-02T23:22:41.449Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 52,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales\\Program.cs",
+              "RelativeDocumentMoniker": "Reales\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales\\Program.cs",
+              "RelativeToolTip": "Reales\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:22:37.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Program.cs",
+              "RelativeDocumentMoniker": "Reales,500.000\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\GUIA 4 PRACTICA\\GUIA-4-\\GUIA-4-\\Guia 4 teoria\\Reales,500.000\\Program.cs",
+              "RelativeToolTip": "Reales,500.000\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T23:20:38.731Z",
+              "EditorCaption": ""
             }
           ]
         }
